@@ -150,7 +150,7 @@ git check-ignore -v log/log.txt
 
 ## 3.1 vscode颜色
 
-![image-20230825145542491](C:\Users\UFO\Desktop\thefuckinggit\img\gitignore\image-20230825145542491.png)
+![image-20230825145542491](img\gitignore\image-20230825145542491.png)
 
 几种常见颜色：
 
